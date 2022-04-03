@@ -1,0 +1,60 @@
+{
+  "uid" : "de6fd7786e7847a4",
+  "name" : "edit boxes",
+  "fullName" : "mouse hover.edit boxes",
+  "historyId" : "2297ca49bbc7fa1b71aacaafe9d449bd",
+  "time" : {
+    "start" : 1642168676667,
+    "stop" : 1642168693393,
+    "duration" : 16726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "mouse hover"
+  }, {
+    "name" : "testClass",
+    "value" : "mouse hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "edit boxes"
+  }, {
+    "name" : "package",
+    "value" : "mouse hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de6fd7786e7847a4.json",
+  "parameterValues" : [ "chrome-95.0.4638.54" ]
+}

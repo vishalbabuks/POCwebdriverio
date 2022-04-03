@@ -1,0 +1,70 @@
+{
+  "uid" : "154a287c3512f14f",
+  "name" : "edit boxes",
+  "fullName" : "mouse hover.edit boxes",
+  "historyId" : "2297ca49bbc7fa1b71aacaafe9d449bd",
+  "time" : {
+    "start" : 1642169253592,
+    "stop" : 1642169270600,
+    "duration" : 17008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "mouse hover"
+  }, {
+    "name" : "testClass",
+    "value" : "mouse hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "edit boxes"
+  }, {
+    "name" : "package",
+    "value" : "mouse hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "de6fd7786e7847a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642168676667,
+        "stop" : 1642168693393,
+        "duration" : 16726
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "154a287c3512f14f.json",
+  "parameterValues" : [ "chrome-95.0.4638.54" ]
+}

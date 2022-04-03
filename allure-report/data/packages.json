@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "mouse hover",
+    "children" : [ {
+      "name" : "mouse",
+      "uid" : "729e6896a50c5d2e",
+      "parentUid" : "71a33e74ebfb3f58abaefb41596fc48c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642169253592,
+        "stop" : 1642169253592,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "edit boxes",
+      "uid" : "154a287c3512f14f",
+      "parentUid" : "71a33e74ebfb3f58abaefb41596fc48c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642169253592,
+        "stop" : 1642169270600,
+        "duration" : 17008
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-95.0.4638.54" ]
+    } ],
+    "uid" : "71a33e74ebfb3f58abaefb41596fc48c"
+  } ]
+}

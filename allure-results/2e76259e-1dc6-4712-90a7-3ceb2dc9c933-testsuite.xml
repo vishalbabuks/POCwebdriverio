@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1646480614920' stop='1646480616498'>
+    <name>loginbank testsuite</name>
+    <title>loginbank testsuite</title>
+    <test-cases>
+        <test-case start='1646480614921' status='broken' stop='1646480616497'>
+            <name>logintestcase</name>
+            <title>logintestcase</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-95.0.4638.54'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>btn is not defined</message>
+                <stack-trace>ReferenceError: btn is not defined
+                    at bankhomepage.customerloginbutton (/home/consumerstech/Desktop/Webdriverio second project/test/pageobjects/bankhome.js:7:18)
+                    at Context.&lt;anonymous> (/home/consumerstech/Desktop/Webdriverio second project/test/specs/pomimplementation.js:6:28)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
